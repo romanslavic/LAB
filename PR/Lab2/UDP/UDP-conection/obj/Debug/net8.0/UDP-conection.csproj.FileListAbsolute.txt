@@ -1,0 +1,14 @@
+E:\Downloads\UTM\PR\Lab2\UDP\UDP-conection\bin\Debug\net8.0\UDP-conection.exe
+E:\Downloads\UTM\PR\Lab2\UDP\UDP-conection\bin\Debug\net8.0\UDP-conection.deps.json
+E:\Downloads\UTM\PR\Lab2\UDP\UDP-conection\bin\Debug\net8.0\UDP-conection.runtimeconfig.json
+E:\Downloads\UTM\PR\Lab2\UDP\UDP-conection\bin\Debug\net8.0\UDP-conection.dll
+E:\Downloads\UTM\PR\Lab2\UDP\UDP-conection\bin\Debug\net8.0\UDP-conection.pdb
+E:\Downloads\UTM\PR\Lab2\UDP\UDP-conection\obj\Debug\net8.0\UDP-conection.GeneratedMSBuildEditorConfig.editorconfig
+E:\Downloads\UTM\PR\Lab2\UDP\UDP-conection\obj\Debug\net8.0\UDP-conection.AssemblyInfoInputs.cache
+E:\Downloads\UTM\PR\Lab2\UDP\UDP-conection\obj\Debug\net8.0\UDP-conection.AssemblyInfo.cs
+E:\Downloads\UTM\PR\Lab2\UDP\UDP-conection\obj\Debug\net8.0\UDP-conection.csproj.CoreCompileInputs.cache
+E:\Downloads\UTM\PR\Lab2\UDP\UDP-conection\obj\Debug\net8.0\UDP-conection.dll
+E:\Downloads\UTM\PR\Lab2\UDP\UDP-conection\obj\Debug\net8.0\refint\UDP-conection.dll
+E:\Downloads\UTM\PR\Lab2\UDP\UDP-conection\obj\Debug\net8.0\UDP-conection.pdb
+E:\Downloads\UTM\PR\Lab2\UDP\UDP-conection\obj\Debug\net8.0\UDP-conection.genruntimeconfig.cache
+E:\Downloads\UTM\PR\Lab2\UDP\UDP-conection\obj\Debug\net8.0\ref\UDP-conection.dll

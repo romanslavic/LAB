@@ -1,0 +1,17 @@
+E:\Downloads\UTM\PR\Lab3\DNS Application\DNS Application\bin\Debug\net8.0\DNS Application.exe
+E:\Downloads\UTM\PR\Lab3\DNS Application\DNS Application\bin\Debug\net8.0\DNS Application.deps.json
+E:\Downloads\UTM\PR\Lab3\DNS Application\DNS Application\bin\Debug\net8.0\DNS Application.runtimeconfig.json
+E:\Downloads\UTM\PR\Lab3\DNS Application\DNS Application\bin\Debug\net8.0\DNS Application.dll
+E:\Downloads\UTM\PR\Lab3\DNS Application\DNS Application\bin\Debug\net8.0\DNS Application.pdb
+E:\Downloads\UTM\PR\Lab3\DNS Application\DNS Application\obj\Debug\net8.0\DNS Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Downloads\UTM\PR\Lab3\DNS Application\DNS Application\obj\Debug\net8.0\DNS Application.AssemblyInfoInputs.cache
+E:\Downloads\UTM\PR\Lab3\DNS Application\DNS Application\obj\Debug\net8.0\DNS Application.AssemblyInfo.cs
+E:\Downloads\UTM\PR\Lab3\DNS Application\DNS Application\obj\Debug\net8.0\DNS Application.csproj.CoreCompileInputs.cache
+E:\Downloads\UTM\PR\Lab3\DNS Application\DNS Application\obj\Debug\net8.0\DNS Application.dll
+E:\Downloads\UTM\PR\Lab3\DNS Application\DNS Application\obj\Debug\net8.0\refint\DNS Application.dll
+E:\Downloads\UTM\PR\Lab3\DNS Application\DNS Application\obj\Debug\net8.0\DNS Application.pdb
+E:\Downloads\UTM\PR\Lab3\DNS Application\DNS Application\obj\Debug\net8.0\DNS Application.genruntimeconfig.cache
+E:\Downloads\UTM\PR\Lab3\DNS Application\DNS Application\obj\Debug\net8.0\ref\DNS Application.dll
+E:\Downloads\UTM\PR\Lab3\DNS Application\DNS Application\bin\Debug\net8.0\DnsClient.dll
+E:\Downloads\UTM\PR\Lab3\DNS Application\DNS Application\obj\Debug\net8.0\DNS Application.csproj.AssemblyReference.cache
+E:\Downloads\UTM\PR\Lab3\DNS Application\DNS Application\obj\Debug\net8.0\DNS Appl.2BDB8E30.Up2Date

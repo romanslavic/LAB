@@ -1,0 +1,16 @@
+﻿@{
+    ViewData["Title"] = "Ora pentru Fus Orar";
+    Layout = "_Layout";
+}
+<h2>Introdu un fus orar (GMT):</h2>
+<form method="post">
+    <label for="gmtOffset">GMT offset (-11 to +11):</label>
+    <input type="number" name="gmtOffset" min="-11" max="11" required />
+    <button type="submit">Obține Ora</button>
+</form>
+
+@if (ViewBag.AdjustedTime != null)
+{
+    <p>Ora pentru GMT@(ViewBag.GmtOffset >= 0 ? "+" : "")@ViewBag.GmtOffset: <strong>@ViewBag.AdjustedTime</strong></p>
+}
+<a href="/">Înapoi</a>
