@@ -1,0 +1,14 @@
+E:\Downloads\UTM\TMPP\Lab2(Structural)\StructuralPatterns\VirtualProxyPattern\bin\Debug\net9.0\VirtualProxyPattern.exe
+E:\Downloads\UTM\TMPP\Lab2(Structural)\StructuralPatterns\VirtualProxyPattern\bin\Debug\net9.0\VirtualProxyPattern.deps.json
+E:\Downloads\UTM\TMPP\Lab2(Structural)\StructuralPatterns\VirtualProxyPattern\bin\Debug\net9.0\VirtualProxyPattern.runtimeconfig.json
+E:\Downloads\UTM\TMPP\Lab2(Structural)\StructuralPatterns\VirtualProxyPattern\bin\Debug\net9.0\VirtualProxyPattern.dll
+E:\Downloads\UTM\TMPP\Lab2(Structural)\StructuralPatterns\VirtualProxyPattern\bin\Debug\net9.0\VirtualProxyPattern.pdb
+E:\Downloads\UTM\TMPP\Lab2(Structural)\StructuralPatterns\VirtualProxyPattern\obj\Debug\net9.0\VirtualProxyPattern.GeneratedMSBuildEditorConfig.editorconfig
+E:\Downloads\UTM\TMPP\Lab2(Structural)\StructuralPatterns\VirtualProxyPattern\obj\Debug\net9.0\VirtualProxyPattern.AssemblyInfoInputs.cache
+E:\Downloads\UTM\TMPP\Lab2(Structural)\StructuralPatterns\VirtualProxyPattern\obj\Debug\net9.0\VirtualProxyPattern.AssemblyInfo.cs
+E:\Downloads\UTM\TMPP\Lab2(Structural)\StructuralPatterns\VirtualProxyPattern\obj\Debug\net9.0\VirtualProxyPattern.csproj.CoreCompileInputs.cache
+E:\Downloads\UTM\TMPP\Lab2(Structural)\StructuralPatterns\VirtualProxyPattern\obj\Debug\net9.0\VirtualProxyPattern.dll
+E:\Downloads\UTM\TMPP\Lab2(Structural)\StructuralPatterns\VirtualProxyPattern\obj\Debug\net9.0\refint\VirtualProxyPattern.dll
+E:\Downloads\UTM\TMPP\Lab2(Structural)\StructuralPatterns\VirtualProxyPattern\obj\Debug\net9.0\VirtualProxyPattern.pdb
+E:\Downloads\UTM\TMPP\Lab2(Structural)\StructuralPatterns\VirtualProxyPattern\obj\Debug\net9.0\VirtualProxyPattern.genruntimeconfig.cache
+E:\Downloads\UTM\TMPP\Lab2(Structural)\StructuralPatterns\VirtualProxyPattern\obj\Debug\net9.0\ref\VirtualProxyPattern.dll

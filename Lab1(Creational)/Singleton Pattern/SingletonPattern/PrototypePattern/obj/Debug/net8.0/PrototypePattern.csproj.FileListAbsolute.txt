@@ -1,0 +1,14 @@
+E:\Downloads\UTM\TMPP\Lab1(Creational)\Singleton Pattern\SingletonPattern\PrototypePattern\bin\Debug\net8.0\PrototypePattern.exe
+E:\Downloads\UTM\TMPP\Lab1(Creational)\Singleton Pattern\SingletonPattern\PrototypePattern\bin\Debug\net8.0\PrototypePattern.deps.json
+E:\Downloads\UTM\TMPP\Lab1(Creational)\Singleton Pattern\SingletonPattern\PrototypePattern\bin\Debug\net8.0\PrototypePattern.runtimeconfig.json
+E:\Downloads\UTM\TMPP\Lab1(Creational)\Singleton Pattern\SingletonPattern\PrototypePattern\bin\Debug\net8.0\PrototypePattern.dll
+E:\Downloads\UTM\TMPP\Lab1(Creational)\Singleton Pattern\SingletonPattern\PrototypePattern\bin\Debug\net8.0\PrototypePattern.pdb
+E:\Downloads\UTM\TMPP\Lab1(Creational)\Singleton Pattern\SingletonPattern\PrototypePattern\obj\Debug\net8.0\PrototypePattern.GeneratedMSBuildEditorConfig.editorconfig
+E:\Downloads\UTM\TMPP\Lab1(Creational)\Singleton Pattern\SingletonPattern\PrototypePattern\obj\Debug\net8.0\PrototypePattern.AssemblyInfoInputs.cache
+E:\Downloads\UTM\TMPP\Lab1(Creational)\Singleton Pattern\SingletonPattern\PrototypePattern\obj\Debug\net8.0\PrototypePattern.AssemblyInfo.cs
+E:\Downloads\UTM\TMPP\Lab1(Creational)\Singleton Pattern\SingletonPattern\PrototypePattern\obj\Debug\net8.0\PrototypePattern.csproj.CoreCompileInputs.cache
+E:\Downloads\UTM\TMPP\Lab1(Creational)\Singleton Pattern\SingletonPattern\PrototypePattern\obj\Debug\net8.0\PrototypePattern.dll
+E:\Downloads\UTM\TMPP\Lab1(Creational)\Singleton Pattern\SingletonPattern\PrototypePattern\obj\Debug\net8.0\refint\PrototypePattern.dll
+E:\Downloads\UTM\TMPP\Lab1(Creational)\Singleton Pattern\SingletonPattern\PrototypePattern\obj\Debug\net8.0\PrototypePattern.pdb
+E:\Downloads\UTM\TMPP\Lab1(Creational)\Singleton Pattern\SingletonPattern\PrototypePattern\obj\Debug\net8.0\PrototypePattern.genruntimeconfig.cache
+E:\Downloads\UTM\TMPP\Lab1(Creational)\Singleton Pattern\SingletonPattern\PrototypePattern\obj\Debug\net8.0\ref\PrototypePattern.dll

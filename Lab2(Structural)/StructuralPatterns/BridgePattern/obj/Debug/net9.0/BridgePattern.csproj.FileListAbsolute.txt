@@ -1,0 +1,14 @@
+E:\Downloads\UTM\TMPP\Lab2(Structural)\StructuralPatterns\BridgePattern\bin\Debug\net9.0\BridgePattern.exe
+E:\Downloads\UTM\TMPP\Lab2(Structural)\StructuralPatterns\BridgePattern\bin\Debug\net9.0\BridgePattern.deps.json
+E:\Downloads\UTM\TMPP\Lab2(Structural)\StructuralPatterns\BridgePattern\bin\Debug\net9.0\BridgePattern.runtimeconfig.json
+E:\Downloads\UTM\TMPP\Lab2(Structural)\StructuralPatterns\BridgePattern\bin\Debug\net9.0\BridgePattern.dll
+E:\Downloads\UTM\TMPP\Lab2(Structural)\StructuralPatterns\BridgePattern\bin\Debug\net9.0\BridgePattern.pdb
+E:\Downloads\UTM\TMPP\Lab2(Structural)\StructuralPatterns\BridgePattern\obj\Debug\net9.0\BridgePattern.GeneratedMSBuildEditorConfig.editorconfig
+E:\Downloads\UTM\TMPP\Lab2(Structural)\StructuralPatterns\BridgePattern\obj\Debug\net9.0\BridgePattern.AssemblyInfoInputs.cache
+E:\Downloads\UTM\TMPP\Lab2(Structural)\StructuralPatterns\BridgePattern\obj\Debug\net9.0\BridgePattern.AssemblyInfo.cs
+E:\Downloads\UTM\TMPP\Lab2(Structural)\StructuralPatterns\BridgePattern\obj\Debug\net9.0\BridgePattern.csproj.CoreCompileInputs.cache
+E:\Downloads\UTM\TMPP\Lab2(Structural)\StructuralPatterns\BridgePattern\obj\Debug\net9.0\BridgePattern.dll
+E:\Downloads\UTM\TMPP\Lab2(Structural)\StructuralPatterns\BridgePattern\obj\Debug\net9.0\refint\BridgePattern.dll
+E:\Downloads\UTM\TMPP\Lab2(Structural)\StructuralPatterns\BridgePattern\obj\Debug\net9.0\BridgePattern.pdb
+E:\Downloads\UTM\TMPP\Lab2(Structural)\StructuralPatterns\BridgePattern\obj\Debug\net9.0\BridgePattern.genruntimeconfig.cache
+E:\Downloads\UTM\TMPP\Lab2(Structural)\StructuralPatterns\BridgePattern\obj\Debug\net9.0\ref\BridgePattern.dll

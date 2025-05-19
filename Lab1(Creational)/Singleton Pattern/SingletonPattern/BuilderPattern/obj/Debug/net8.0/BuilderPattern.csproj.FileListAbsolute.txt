@@ -1,0 +1,14 @@
+E:\Downloads\UTM\TMPP\Lab1(Creational)\Singleton Pattern\SingletonPattern\BuilderPattern\bin\Debug\net8.0\BuilderPattern.exe
+E:\Downloads\UTM\TMPP\Lab1(Creational)\Singleton Pattern\SingletonPattern\BuilderPattern\bin\Debug\net8.0\BuilderPattern.deps.json
+E:\Downloads\UTM\TMPP\Lab1(Creational)\Singleton Pattern\SingletonPattern\BuilderPattern\bin\Debug\net8.0\BuilderPattern.runtimeconfig.json
+E:\Downloads\UTM\TMPP\Lab1(Creational)\Singleton Pattern\SingletonPattern\BuilderPattern\bin\Debug\net8.0\BuilderPattern.dll
+E:\Downloads\UTM\TMPP\Lab1(Creational)\Singleton Pattern\SingletonPattern\BuilderPattern\bin\Debug\net8.0\BuilderPattern.pdb
+E:\Downloads\UTM\TMPP\Lab1(Creational)\Singleton Pattern\SingletonPattern\BuilderPattern\obj\Debug\net8.0\BuilderPattern.GeneratedMSBuildEditorConfig.editorconfig
+E:\Downloads\UTM\TMPP\Lab1(Creational)\Singleton Pattern\SingletonPattern\BuilderPattern\obj\Debug\net8.0\BuilderPattern.AssemblyInfoInputs.cache
+E:\Downloads\UTM\TMPP\Lab1(Creational)\Singleton Pattern\SingletonPattern\BuilderPattern\obj\Debug\net8.0\BuilderPattern.AssemblyInfo.cs
+E:\Downloads\UTM\TMPP\Lab1(Creational)\Singleton Pattern\SingletonPattern\BuilderPattern\obj\Debug\net8.0\BuilderPattern.csproj.CoreCompileInputs.cache
+E:\Downloads\UTM\TMPP\Lab1(Creational)\Singleton Pattern\SingletonPattern\BuilderPattern\obj\Debug\net8.0\BuilderPattern.dll
+E:\Downloads\UTM\TMPP\Lab1(Creational)\Singleton Pattern\SingletonPattern\BuilderPattern\obj\Debug\net8.0\refint\BuilderPattern.dll
+E:\Downloads\UTM\TMPP\Lab1(Creational)\Singleton Pattern\SingletonPattern\BuilderPattern\obj\Debug\net8.0\BuilderPattern.pdb
+E:\Downloads\UTM\TMPP\Lab1(Creational)\Singleton Pattern\SingletonPattern\BuilderPattern\obj\Debug\net8.0\BuilderPattern.genruntimeconfig.cache
+E:\Downloads\UTM\TMPP\Lab1(Creational)\Singleton Pattern\SingletonPattern\BuilderPattern\obj\Debug\net8.0\ref\BuilderPattern.dll

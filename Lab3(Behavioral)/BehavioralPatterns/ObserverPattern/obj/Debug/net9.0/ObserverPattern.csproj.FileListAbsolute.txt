@@ -1,0 +1,14 @@
+E:\Downloads\UTM\TMPP\Lab3(Behavioral)\BehavioralPatterns\ObserverPattern\bin\Debug\net9.0\ObserverPattern.exe
+E:\Downloads\UTM\TMPP\Lab3(Behavioral)\BehavioralPatterns\ObserverPattern\bin\Debug\net9.0\ObserverPattern.deps.json
+E:\Downloads\UTM\TMPP\Lab3(Behavioral)\BehavioralPatterns\ObserverPattern\bin\Debug\net9.0\ObserverPattern.runtimeconfig.json
+E:\Downloads\UTM\TMPP\Lab3(Behavioral)\BehavioralPatterns\ObserverPattern\bin\Debug\net9.0\ObserverPattern.dll
+E:\Downloads\UTM\TMPP\Lab3(Behavioral)\BehavioralPatterns\ObserverPattern\bin\Debug\net9.0\ObserverPattern.pdb
+E:\Downloads\UTM\TMPP\Lab3(Behavioral)\BehavioralPatterns\ObserverPattern\obj\Debug\net9.0\ObserverPattern.GeneratedMSBuildEditorConfig.editorconfig
+E:\Downloads\UTM\TMPP\Lab3(Behavioral)\BehavioralPatterns\ObserverPattern\obj\Debug\net9.0\ObserverPattern.AssemblyInfoInputs.cache
+E:\Downloads\UTM\TMPP\Lab3(Behavioral)\BehavioralPatterns\ObserverPattern\obj\Debug\net9.0\ObserverPattern.AssemblyInfo.cs
+E:\Downloads\UTM\TMPP\Lab3(Behavioral)\BehavioralPatterns\ObserverPattern\obj\Debug\net9.0\ObserverPattern.csproj.CoreCompileInputs.cache
+E:\Downloads\UTM\TMPP\Lab3(Behavioral)\BehavioralPatterns\ObserverPattern\obj\Debug\net9.0\ObserverPattern.dll
+E:\Downloads\UTM\TMPP\Lab3(Behavioral)\BehavioralPatterns\ObserverPattern\obj\Debug\net9.0\refint\ObserverPattern.dll
+E:\Downloads\UTM\TMPP\Lab3(Behavioral)\BehavioralPatterns\ObserverPattern\obj\Debug\net9.0\ObserverPattern.pdb
+E:\Downloads\UTM\TMPP\Lab3(Behavioral)\BehavioralPatterns\ObserverPattern\obj\Debug\net9.0\ObserverPattern.genruntimeconfig.cache
+E:\Downloads\UTM\TMPP\Lab3(Behavioral)\BehavioralPatterns\ObserverPattern\obj\Debug\net9.0\ref\ObserverPattern.dll

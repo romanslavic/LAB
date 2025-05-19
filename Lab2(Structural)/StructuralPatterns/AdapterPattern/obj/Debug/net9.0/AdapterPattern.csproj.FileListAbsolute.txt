@@ -1,0 +1,14 @@
+E:\Downloads\UTM\TMPP\Lab2(Structural)\StructuralPatterns\AdapterPattern\bin\Debug\net9.0\AdapterPattern.exe
+E:\Downloads\UTM\TMPP\Lab2(Structural)\StructuralPatterns\AdapterPattern\bin\Debug\net9.0\AdapterPattern.deps.json
+E:\Downloads\UTM\TMPP\Lab2(Structural)\StructuralPatterns\AdapterPattern\bin\Debug\net9.0\AdapterPattern.runtimeconfig.json
+E:\Downloads\UTM\TMPP\Lab2(Structural)\StructuralPatterns\AdapterPattern\bin\Debug\net9.0\AdapterPattern.dll
+E:\Downloads\UTM\TMPP\Lab2(Structural)\StructuralPatterns\AdapterPattern\bin\Debug\net9.0\AdapterPattern.pdb
+E:\Downloads\UTM\TMPP\Lab2(Structural)\StructuralPatterns\AdapterPattern\obj\Debug\net9.0\AdapterPattern.GeneratedMSBuildEditorConfig.editorconfig
+E:\Downloads\UTM\TMPP\Lab2(Structural)\StructuralPatterns\AdapterPattern\obj\Debug\net9.0\AdapterPattern.AssemblyInfoInputs.cache
+E:\Downloads\UTM\TMPP\Lab2(Structural)\StructuralPatterns\AdapterPattern\obj\Debug\net9.0\AdapterPattern.AssemblyInfo.cs
+E:\Downloads\UTM\TMPP\Lab2(Structural)\StructuralPatterns\AdapterPattern\obj\Debug\net9.0\AdapterPattern.csproj.CoreCompileInputs.cache
+E:\Downloads\UTM\TMPP\Lab2(Structural)\StructuralPatterns\AdapterPattern\obj\Debug\net9.0\AdapterPattern.dll
+E:\Downloads\UTM\TMPP\Lab2(Structural)\StructuralPatterns\AdapterPattern\obj\Debug\net9.0\refint\AdapterPattern.dll
+E:\Downloads\UTM\TMPP\Lab2(Structural)\StructuralPatterns\AdapterPattern\obj\Debug\net9.0\AdapterPattern.pdb
+E:\Downloads\UTM\TMPP\Lab2(Structural)\StructuralPatterns\AdapterPattern\obj\Debug\net9.0\AdapterPattern.genruntimeconfig.cache
+E:\Downloads\UTM\TMPP\Lab2(Structural)\StructuralPatterns\AdapterPattern\obj\Debug\net9.0\ref\AdapterPattern.dll

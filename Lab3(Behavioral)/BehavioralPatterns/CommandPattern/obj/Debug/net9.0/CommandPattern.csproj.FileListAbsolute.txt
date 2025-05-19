@@ -1,0 +1,14 @@
+E:\Downloads\UTM\TMPP\Lab3(Behavioral)\BehavioralPatterns\CommandPattern\bin\Debug\net9.0\CommandPattern.exe
+E:\Downloads\UTM\TMPP\Lab3(Behavioral)\BehavioralPatterns\CommandPattern\bin\Debug\net9.0\CommandPattern.deps.json
+E:\Downloads\UTM\TMPP\Lab3(Behavioral)\BehavioralPatterns\CommandPattern\bin\Debug\net9.0\CommandPattern.runtimeconfig.json
+E:\Downloads\UTM\TMPP\Lab3(Behavioral)\BehavioralPatterns\CommandPattern\bin\Debug\net9.0\CommandPattern.dll
+E:\Downloads\UTM\TMPP\Lab3(Behavioral)\BehavioralPatterns\CommandPattern\bin\Debug\net9.0\CommandPattern.pdb
+E:\Downloads\UTM\TMPP\Lab3(Behavioral)\BehavioralPatterns\CommandPattern\obj\Debug\net9.0\CommandPattern.GeneratedMSBuildEditorConfig.editorconfig
+E:\Downloads\UTM\TMPP\Lab3(Behavioral)\BehavioralPatterns\CommandPattern\obj\Debug\net9.0\CommandPattern.AssemblyInfoInputs.cache
+E:\Downloads\UTM\TMPP\Lab3(Behavioral)\BehavioralPatterns\CommandPattern\obj\Debug\net9.0\CommandPattern.AssemblyInfo.cs
+E:\Downloads\UTM\TMPP\Lab3(Behavioral)\BehavioralPatterns\CommandPattern\obj\Debug\net9.0\CommandPattern.csproj.CoreCompileInputs.cache
+E:\Downloads\UTM\TMPP\Lab3(Behavioral)\BehavioralPatterns\CommandPattern\obj\Debug\net9.0\CommandPattern.dll
+E:\Downloads\UTM\TMPP\Lab3(Behavioral)\BehavioralPatterns\CommandPattern\obj\Debug\net9.0\refint\CommandPattern.dll
+E:\Downloads\UTM\TMPP\Lab3(Behavioral)\BehavioralPatterns\CommandPattern\obj\Debug\net9.0\CommandPattern.pdb
+E:\Downloads\UTM\TMPP\Lab3(Behavioral)\BehavioralPatterns\CommandPattern\obj\Debug\net9.0\CommandPattern.genruntimeconfig.cache
+E:\Downloads\UTM\TMPP\Lab3(Behavioral)\BehavioralPatterns\CommandPattern\obj\Debug\net9.0\ref\CommandPattern.dll

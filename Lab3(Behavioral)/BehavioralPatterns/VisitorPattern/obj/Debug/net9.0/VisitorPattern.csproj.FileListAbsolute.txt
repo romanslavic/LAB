@@ -1,0 +1,14 @@
+E:\Downloads\UTM\TMPP\Lab3(Behavioral)\BehavioralPatterns\VisitorPattern\bin\Debug\net9.0\VisitorPattern.exe
+E:\Downloads\UTM\TMPP\Lab3(Behavioral)\BehavioralPatterns\VisitorPattern\bin\Debug\net9.0\VisitorPattern.deps.json
+E:\Downloads\UTM\TMPP\Lab3(Behavioral)\BehavioralPatterns\VisitorPattern\bin\Debug\net9.0\VisitorPattern.runtimeconfig.json
+E:\Downloads\UTM\TMPP\Lab3(Behavioral)\BehavioralPatterns\VisitorPattern\bin\Debug\net9.0\VisitorPattern.dll
+E:\Downloads\UTM\TMPP\Lab3(Behavioral)\BehavioralPatterns\VisitorPattern\bin\Debug\net9.0\VisitorPattern.pdb
+E:\Downloads\UTM\TMPP\Lab3(Behavioral)\BehavioralPatterns\VisitorPattern\obj\Debug\net9.0\VisitorPattern.GeneratedMSBuildEditorConfig.editorconfig
+E:\Downloads\UTM\TMPP\Lab3(Behavioral)\BehavioralPatterns\VisitorPattern\obj\Debug\net9.0\VisitorPattern.AssemblyInfoInputs.cache
+E:\Downloads\UTM\TMPP\Lab3(Behavioral)\BehavioralPatterns\VisitorPattern\obj\Debug\net9.0\VisitorPattern.AssemblyInfo.cs
+E:\Downloads\UTM\TMPP\Lab3(Behavioral)\BehavioralPatterns\VisitorPattern\obj\Debug\net9.0\VisitorPattern.csproj.CoreCompileInputs.cache
+E:\Downloads\UTM\TMPP\Lab3(Behavioral)\BehavioralPatterns\VisitorPattern\obj\Debug\net9.0\VisitorPattern.dll
+E:\Downloads\UTM\TMPP\Lab3(Behavioral)\BehavioralPatterns\VisitorPattern\obj\Debug\net9.0\refint\VisitorPattern.dll
+E:\Downloads\UTM\TMPP\Lab3(Behavioral)\BehavioralPatterns\VisitorPattern\obj\Debug\net9.0\VisitorPattern.pdb
+E:\Downloads\UTM\TMPP\Lab3(Behavioral)\BehavioralPatterns\VisitorPattern\obj\Debug\net9.0\VisitorPattern.genruntimeconfig.cache
+E:\Downloads\UTM\TMPP\Lab3(Behavioral)\BehavioralPatterns\VisitorPattern\obj\Debug\net9.0\ref\VisitorPattern.dll

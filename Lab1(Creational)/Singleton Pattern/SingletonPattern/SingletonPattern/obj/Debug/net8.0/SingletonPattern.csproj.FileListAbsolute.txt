@@ -1,0 +1,15 @@
+E:\Downloads\UTM\TMPP\Lab1(Creational)\Singleton Pattern\SingletonPattern\SingletonPattern\bin\Debug\net8.0\SingletonPattern.exe
+E:\Downloads\UTM\TMPP\Lab1(Creational)\Singleton Pattern\SingletonPattern\SingletonPattern\bin\Debug\net8.0\SingletonPattern.deps.json
+E:\Downloads\UTM\TMPP\Lab1(Creational)\Singleton Pattern\SingletonPattern\SingletonPattern\bin\Debug\net8.0\SingletonPattern.runtimeconfig.json
+E:\Downloads\UTM\TMPP\Lab1(Creational)\Singleton Pattern\SingletonPattern\SingletonPattern\bin\Debug\net8.0\SingletonPattern.dll
+E:\Downloads\UTM\TMPP\Lab1(Creational)\Singleton Pattern\SingletonPattern\SingletonPattern\bin\Debug\net8.0\SingletonPattern.pdb
+E:\Downloads\UTM\TMPP\Lab1(Creational)\Singleton Pattern\SingletonPattern\SingletonPattern\obj\Debug\net8.0\SingletonPattern.GeneratedMSBuildEditorConfig.editorconfig
+E:\Downloads\UTM\TMPP\Lab1(Creational)\Singleton Pattern\SingletonPattern\SingletonPattern\obj\Debug\net8.0\SingletonPattern.AssemblyInfoInputs.cache
+E:\Downloads\UTM\TMPP\Lab1(Creational)\Singleton Pattern\SingletonPattern\SingletonPattern\obj\Debug\net8.0\SingletonPattern.AssemblyInfo.cs
+E:\Downloads\UTM\TMPP\Lab1(Creational)\Singleton Pattern\SingletonPattern\SingletonPattern\obj\Debug\net8.0\SingletonPattern.csproj.CoreCompileInputs.cache
+E:\Downloads\UTM\TMPP\Lab1(Creational)\Singleton Pattern\SingletonPattern\SingletonPattern\obj\Debug\net8.0\SingletonPattern.dll
+E:\Downloads\UTM\TMPP\Lab1(Creational)\Singleton Pattern\SingletonPattern\SingletonPattern\obj\Debug\net8.0\refint\SingletonPattern.dll
+E:\Downloads\UTM\TMPP\Lab1(Creational)\Singleton Pattern\SingletonPattern\SingletonPattern\obj\Debug\net8.0\SingletonPattern.pdb
+E:\Downloads\UTM\TMPP\Lab1(Creational)\Singleton Pattern\SingletonPattern\SingletonPattern\obj\Debug\net8.0\SingletonPattern.genruntimeconfig.cache
+E:\Downloads\UTM\TMPP\Lab1(Creational)\Singleton Pattern\SingletonPattern\SingletonPattern\obj\Debug\net8.0\ref\SingletonPattern.dll
+E:\Downloads\UTM\TMPP\Lab1(Creational)\Singleton Pattern\SingletonPattern\SingletonPattern\obj\Debug\net8.0\SingletonPattern.sourcelink.json

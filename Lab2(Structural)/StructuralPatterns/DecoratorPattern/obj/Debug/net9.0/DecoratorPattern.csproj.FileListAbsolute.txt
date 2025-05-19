@@ -1,0 +1,14 @@
+E:\Downloads\UTM\TMPP\Lab2(Structural)\StructuralPatterns\DecoratorPattern\bin\Debug\net9.0\DecoratorPattern.exe
+E:\Downloads\UTM\TMPP\Lab2(Structural)\StructuralPatterns\DecoratorPattern\bin\Debug\net9.0\DecoratorPattern.deps.json
+E:\Downloads\UTM\TMPP\Lab2(Structural)\StructuralPatterns\DecoratorPattern\bin\Debug\net9.0\DecoratorPattern.runtimeconfig.json
+E:\Downloads\UTM\TMPP\Lab2(Structural)\StructuralPatterns\DecoratorPattern\bin\Debug\net9.0\DecoratorPattern.dll
+E:\Downloads\UTM\TMPP\Lab2(Structural)\StructuralPatterns\DecoratorPattern\bin\Debug\net9.0\DecoratorPattern.pdb
+E:\Downloads\UTM\TMPP\Lab2(Structural)\StructuralPatterns\DecoratorPattern\obj\Debug\net9.0\DecoratorPattern.GeneratedMSBuildEditorConfig.editorconfig
+E:\Downloads\UTM\TMPP\Lab2(Structural)\StructuralPatterns\DecoratorPattern\obj\Debug\net9.0\DecoratorPattern.AssemblyInfoInputs.cache
+E:\Downloads\UTM\TMPP\Lab2(Structural)\StructuralPatterns\DecoratorPattern\obj\Debug\net9.0\DecoratorPattern.AssemblyInfo.cs
+E:\Downloads\UTM\TMPP\Lab2(Structural)\StructuralPatterns\DecoratorPattern\obj\Debug\net9.0\DecoratorPattern.csproj.CoreCompileInputs.cache
+E:\Downloads\UTM\TMPP\Lab2(Structural)\StructuralPatterns\DecoratorPattern\obj\Debug\net9.0\DecoratorPattern.dll
+E:\Downloads\UTM\TMPP\Lab2(Structural)\StructuralPatterns\DecoratorPattern\obj\Debug\net9.0\refint\DecoratorPattern.dll
+E:\Downloads\UTM\TMPP\Lab2(Structural)\StructuralPatterns\DecoratorPattern\obj\Debug\net9.0\DecoratorPattern.pdb
+E:\Downloads\UTM\TMPP\Lab2(Structural)\StructuralPatterns\DecoratorPattern\obj\Debug\net9.0\DecoratorPattern.genruntimeconfig.cache
+E:\Downloads\UTM\TMPP\Lab2(Structural)\StructuralPatterns\DecoratorPattern\obj\Debug\net9.0\ref\DecoratorPattern.dll

@@ -1,0 +1,14 @@
+E:\Downloads\UTM\TMPP\Lab1(Creational)\Singleton Pattern\SingletonPattern\AbstractFactoryPattern\bin\Debug\net8.0\AbstractFactoryPattern.exe
+E:\Downloads\UTM\TMPP\Lab1(Creational)\Singleton Pattern\SingletonPattern\AbstractFactoryPattern\bin\Debug\net8.0\AbstractFactoryPattern.deps.json
+E:\Downloads\UTM\TMPP\Lab1(Creational)\Singleton Pattern\SingletonPattern\AbstractFactoryPattern\bin\Debug\net8.0\AbstractFactoryPattern.runtimeconfig.json
+E:\Downloads\UTM\TMPP\Lab1(Creational)\Singleton Pattern\SingletonPattern\AbstractFactoryPattern\bin\Debug\net8.0\AbstractFactoryPattern.dll
+E:\Downloads\UTM\TMPP\Lab1(Creational)\Singleton Pattern\SingletonPattern\AbstractFactoryPattern\bin\Debug\net8.0\AbstractFactoryPattern.pdb
+E:\Downloads\UTM\TMPP\Lab1(Creational)\Singleton Pattern\SingletonPattern\AbstractFactoryPattern\obj\Debug\net8.0\AbstractFactoryPattern.GeneratedMSBuildEditorConfig.editorconfig
+E:\Downloads\UTM\TMPP\Lab1(Creational)\Singleton Pattern\SingletonPattern\AbstractFactoryPattern\obj\Debug\net8.0\AbstractFactoryPattern.AssemblyInfoInputs.cache
+E:\Downloads\UTM\TMPP\Lab1(Creational)\Singleton Pattern\SingletonPattern\AbstractFactoryPattern\obj\Debug\net8.0\AbstractFactoryPattern.AssemblyInfo.cs
+E:\Downloads\UTM\TMPP\Lab1(Creational)\Singleton Pattern\SingletonPattern\AbstractFactoryPattern\obj\Debug\net8.0\AbstractFactoryPattern.csproj.CoreCompileInputs.cache
+E:\Downloads\UTM\TMPP\Lab1(Creational)\Singleton Pattern\SingletonPattern\AbstractFactoryPattern\obj\Debug\net8.0\AbstractFactoryPattern.dll
+E:\Downloads\UTM\TMPP\Lab1(Creational)\Singleton Pattern\SingletonPattern\AbstractFactoryPattern\obj\Debug\net8.0\refint\AbstractFactoryPattern.dll
+E:\Downloads\UTM\TMPP\Lab1(Creational)\Singleton Pattern\SingletonPattern\AbstractFactoryPattern\obj\Debug\net8.0\AbstractFactoryPattern.pdb
+E:\Downloads\UTM\TMPP\Lab1(Creational)\Singleton Pattern\SingletonPattern\AbstractFactoryPattern\obj\Debug\net8.0\AbstractFactoryPattern.genruntimeconfig.cache
+E:\Downloads\UTM\TMPP\Lab1(Creational)\Singleton Pattern\SingletonPattern\AbstractFactoryPattern\obj\Debug\net8.0\ref\AbstractFactoryPattern.dll

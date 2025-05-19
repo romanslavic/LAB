@@ -1,0 +1,14 @@
+E:\Downloads\UTM\TMPP\Lab2(Structural)\StructuralPatterns\ProtectionProxy\bin\Debug\net9.0\ProtectionProxy.exe
+E:\Downloads\UTM\TMPP\Lab2(Structural)\StructuralPatterns\ProtectionProxy\bin\Debug\net9.0\ProtectionProxy.deps.json
+E:\Downloads\UTM\TMPP\Lab2(Structural)\StructuralPatterns\ProtectionProxy\bin\Debug\net9.0\ProtectionProxy.runtimeconfig.json
+E:\Downloads\UTM\TMPP\Lab2(Structural)\StructuralPatterns\ProtectionProxy\bin\Debug\net9.0\ProtectionProxy.dll
+E:\Downloads\UTM\TMPP\Lab2(Structural)\StructuralPatterns\ProtectionProxy\bin\Debug\net9.0\ProtectionProxy.pdb
+E:\Downloads\UTM\TMPP\Lab2(Structural)\StructuralPatterns\ProtectionProxy\obj\Debug\net9.0\ProtectionProxy.GeneratedMSBuildEditorConfig.editorconfig
+E:\Downloads\UTM\TMPP\Lab2(Structural)\StructuralPatterns\ProtectionProxy\obj\Debug\net9.0\ProtectionProxy.AssemblyInfoInputs.cache
+E:\Downloads\UTM\TMPP\Lab2(Structural)\StructuralPatterns\ProtectionProxy\obj\Debug\net9.0\ProtectionProxy.AssemblyInfo.cs
+E:\Downloads\UTM\TMPP\Lab2(Structural)\StructuralPatterns\ProtectionProxy\obj\Debug\net9.0\ProtectionProxy.csproj.CoreCompileInputs.cache
+E:\Downloads\UTM\TMPP\Lab2(Structural)\StructuralPatterns\ProtectionProxy\obj\Debug\net9.0\ProtectionProxy.dll
+E:\Downloads\UTM\TMPP\Lab2(Structural)\StructuralPatterns\ProtectionProxy\obj\Debug\net9.0\refint\ProtectionProxy.dll
+E:\Downloads\UTM\TMPP\Lab2(Structural)\StructuralPatterns\ProtectionProxy\obj\Debug\net9.0\ProtectionProxy.pdb
+E:\Downloads\UTM\TMPP\Lab2(Structural)\StructuralPatterns\ProtectionProxy\obj\Debug\net9.0\ProtectionProxy.genruntimeconfig.cache
+E:\Downloads\UTM\TMPP\Lab2(Structural)\StructuralPatterns\ProtectionProxy\obj\Debug\net9.0\ref\ProtectionProxy.dll

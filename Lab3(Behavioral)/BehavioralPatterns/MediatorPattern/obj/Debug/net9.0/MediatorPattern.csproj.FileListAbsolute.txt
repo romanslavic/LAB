@@ -1,0 +1,14 @@
+E:\Downloads\UTM\TMPP\Lab3(Behavioral)\BehavioralPatterns\MediatorPattern\bin\Debug\net9.0\MediatorPattern.exe
+E:\Downloads\UTM\TMPP\Lab3(Behavioral)\BehavioralPatterns\MediatorPattern\bin\Debug\net9.0\MediatorPattern.deps.json
+E:\Downloads\UTM\TMPP\Lab3(Behavioral)\BehavioralPatterns\MediatorPattern\bin\Debug\net9.0\MediatorPattern.runtimeconfig.json
+E:\Downloads\UTM\TMPP\Lab3(Behavioral)\BehavioralPatterns\MediatorPattern\bin\Debug\net9.0\MediatorPattern.dll
+E:\Downloads\UTM\TMPP\Lab3(Behavioral)\BehavioralPatterns\MediatorPattern\bin\Debug\net9.0\MediatorPattern.pdb
+E:\Downloads\UTM\TMPP\Lab3(Behavioral)\BehavioralPatterns\MediatorPattern\obj\Debug\net9.0\MediatorPattern.GeneratedMSBuildEditorConfig.editorconfig
+E:\Downloads\UTM\TMPP\Lab3(Behavioral)\BehavioralPatterns\MediatorPattern\obj\Debug\net9.0\MediatorPattern.AssemblyInfoInputs.cache
+E:\Downloads\UTM\TMPP\Lab3(Behavioral)\BehavioralPatterns\MediatorPattern\obj\Debug\net9.0\MediatorPattern.AssemblyInfo.cs
+E:\Downloads\UTM\TMPP\Lab3(Behavioral)\BehavioralPatterns\MediatorPattern\obj\Debug\net9.0\MediatorPattern.csproj.CoreCompileInputs.cache
+E:\Downloads\UTM\TMPP\Lab3(Behavioral)\BehavioralPatterns\MediatorPattern\obj\Debug\net9.0\MediatorPattern.dll
+E:\Downloads\UTM\TMPP\Lab3(Behavioral)\BehavioralPatterns\MediatorPattern\obj\Debug\net9.0\refint\MediatorPattern.dll
+E:\Downloads\UTM\TMPP\Lab3(Behavioral)\BehavioralPatterns\MediatorPattern\obj\Debug\net9.0\MediatorPattern.pdb
+E:\Downloads\UTM\TMPP\Lab3(Behavioral)\BehavioralPatterns\MediatorPattern\obj\Debug\net9.0\MediatorPattern.genruntimeconfig.cache
+E:\Downloads\UTM\TMPP\Lab3(Behavioral)\BehavioralPatterns\MediatorPattern\obj\Debug\net9.0\ref\MediatorPattern.dll

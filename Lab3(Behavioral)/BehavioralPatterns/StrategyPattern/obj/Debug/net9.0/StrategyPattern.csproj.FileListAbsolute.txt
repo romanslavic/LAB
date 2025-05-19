@@ -1,0 +1,14 @@
+E:\Downloads\UTM\TMPP\Lab3(Behavioral)\BehavioralPatterns\StrategyPattern\bin\Debug\net9.0\StrategyPattern.exe
+E:\Downloads\UTM\TMPP\Lab3(Behavioral)\BehavioralPatterns\StrategyPattern\bin\Debug\net9.0\StrategyPattern.deps.json
+E:\Downloads\UTM\TMPP\Lab3(Behavioral)\BehavioralPatterns\StrategyPattern\bin\Debug\net9.0\StrategyPattern.runtimeconfig.json
+E:\Downloads\UTM\TMPP\Lab3(Behavioral)\BehavioralPatterns\StrategyPattern\bin\Debug\net9.0\StrategyPattern.dll
+E:\Downloads\UTM\TMPP\Lab3(Behavioral)\BehavioralPatterns\StrategyPattern\bin\Debug\net9.0\StrategyPattern.pdb
+E:\Downloads\UTM\TMPP\Lab3(Behavioral)\BehavioralPatterns\StrategyPattern\obj\Debug\net9.0\StrategyPattern.GeneratedMSBuildEditorConfig.editorconfig
+E:\Downloads\UTM\TMPP\Lab3(Behavioral)\BehavioralPatterns\StrategyPattern\obj\Debug\net9.0\StrategyPattern.AssemblyInfoInputs.cache
+E:\Downloads\UTM\TMPP\Lab3(Behavioral)\BehavioralPatterns\StrategyPattern\obj\Debug\net9.0\StrategyPattern.AssemblyInfo.cs
+E:\Downloads\UTM\TMPP\Lab3(Behavioral)\BehavioralPatterns\StrategyPattern\obj\Debug\net9.0\StrategyPattern.csproj.CoreCompileInputs.cache
+E:\Downloads\UTM\TMPP\Lab3(Behavioral)\BehavioralPatterns\StrategyPattern\obj\Debug\net9.0\StrategyPattern.dll
+E:\Downloads\UTM\TMPP\Lab3(Behavioral)\BehavioralPatterns\StrategyPattern\obj\Debug\net9.0\refint\StrategyPattern.dll
+E:\Downloads\UTM\TMPP\Lab3(Behavioral)\BehavioralPatterns\StrategyPattern\obj\Debug\net9.0\StrategyPattern.pdb
+E:\Downloads\UTM\TMPP\Lab3(Behavioral)\BehavioralPatterns\StrategyPattern\obj\Debug\net9.0\StrategyPattern.genruntimeconfig.cache
+E:\Downloads\UTM\TMPP\Lab3(Behavioral)\BehavioralPatterns\StrategyPattern\obj\Debug\net9.0\ref\StrategyPattern.dll

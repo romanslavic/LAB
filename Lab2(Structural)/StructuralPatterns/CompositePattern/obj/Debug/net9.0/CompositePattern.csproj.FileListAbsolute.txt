@@ -1,0 +1,14 @@
+E:\Downloads\UTM\TMPP\Lab2(Structural)\StructuralPatterns\CompositePattern\bin\Debug\net9.0\CompositePattern.exe
+E:\Downloads\UTM\TMPP\Lab2(Structural)\StructuralPatterns\CompositePattern\bin\Debug\net9.0\CompositePattern.deps.json
+E:\Downloads\UTM\TMPP\Lab2(Structural)\StructuralPatterns\CompositePattern\bin\Debug\net9.0\CompositePattern.runtimeconfig.json
+E:\Downloads\UTM\TMPP\Lab2(Structural)\StructuralPatterns\CompositePattern\bin\Debug\net9.0\CompositePattern.dll
+E:\Downloads\UTM\TMPP\Lab2(Structural)\StructuralPatterns\CompositePattern\bin\Debug\net9.0\CompositePattern.pdb
+E:\Downloads\UTM\TMPP\Lab2(Structural)\StructuralPatterns\CompositePattern\obj\Debug\net9.0\CompositePattern.GeneratedMSBuildEditorConfig.editorconfig
+E:\Downloads\UTM\TMPP\Lab2(Structural)\StructuralPatterns\CompositePattern\obj\Debug\net9.0\CompositePattern.AssemblyInfoInputs.cache
+E:\Downloads\UTM\TMPP\Lab2(Structural)\StructuralPatterns\CompositePattern\obj\Debug\net9.0\CompositePattern.AssemblyInfo.cs
+E:\Downloads\UTM\TMPP\Lab2(Structural)\StructuralPatterns\CompositePattern\obj\Debug\net9.0\CompositePattern.csproj.CoreCompileInputs.cache
+E:\Downloads\UTM\TMPP\Lab2(Structural)\StructuralPatterns\CompositePattern\obj\Debug\net9.0\CompositePattern.dll
+E:\Downloads\UTM\TMPP\Lab2(Structural)\StructuralPatterns\CompositePattern\obj\Debug\net9.0\refint\CompositePattern.dll
+E:\Downloads\UTM\TMPP\Lab2(Structural)\StructuralPatterns\CompositePattern\obj\Debug\net9.0\CompositePattern.pdb
+E:\Downloads\UTM\TMPP\Lab2(Structural)\StructuralPatterns\CompositePattern\obj\Debug\net9.0\CompositePattern.genruntimeconfig.cache
+E:\Downloads\UTM\TMPP\Lab2(Structural)\StructuralPatterns\CompositePattern\obj\Debug\net9.0\ref\CompositePattern.dll
